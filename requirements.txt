@@ -1,0 +1,2 @@
+mitmproxy~=10.2.2
+pycryptodome~=3.20.0
